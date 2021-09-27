@@ -91,7 +91,7 @@ body, html {
     transform: translateX(50%);
 }
 
-.features > .row {
+#features > .row {
     text-align: center;
     margin: 5%;
     margin-top: 0;
@@ -103,7 +103,7 @@ body, html {
     border-right: 0.5px solid gray;
 }
 
-.features > .row > .col-12 > i {
+#features > .row > .col-12 > i {
     color: #ffffff;
     position: relative;
     background-color: #61497B;
