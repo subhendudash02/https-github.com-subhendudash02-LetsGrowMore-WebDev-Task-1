@@ -12,5 +12,5 @@ Website link: https://subhendudash02.github.io/LetsGrowMore-WebDev-Task-1/
 LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:6848255849589215233/
 <hr><br>
 
-This repository is licensed under MIT license
+This repository is licensed under MIT license<br>
 Copyright (c) 2021 Subhendu Dash.
